@@ -1,0 +1,82 @@
+{
+  "bg": "./bgDeMolay.jpg",
+  "title": "DeMolay Quiz",
+  "description": "Teste os seus conhecimentos sobre a ordem DeMolay",
+  "questions": [
+    {
+      "image": "./pergunta0702.jpg",
+      "title": "Quando foi criada a ordem?",
+      "description": "é um pouquinho aintiga já",
+      "answer": 1,
+      "alternatives": [
+        "1854",
+        "1919",
+        "1991",
+        "2002"
+      ]
+    },
+    {
+      "image": "./pergunta0702.jpg",
+      "title": "A ordem tem como principal inspiração...",
+      "description": "ta fácil",
+      "answer": 3,
+      "alternatives": [
+        "Rei da França Felipe IV",
+        "Xinco Bento",
+        "Geoffrey de Monmouth",
+        "Jacques DeMolay"
+      ]
+    },
+    {
+      "image": "./pergunta0702.jpg",
+      "title": "A ordem possui virtudes cardeais de um demolay, qual delas é a quinta?",
+      "description": "",
+      "answer": 2,
+      "alternatives": [
+        "Companheirismo",
+        "Amor filial",
+        "Fidelidade",
+        "Determinação"
+      ]
+    },
+    {
+      "image": "./pergunta0702.jpg",
+      "title": "Qual instituição fornece suporte a ordem?",
+      "description": "",
+      "answer": 1,
+      "alternatives": [
+        "Governo",
+        "Maçonaria",
+        "Instituições privadas interessadas",
+        "Belgaares"
+      ]
+    },
+    {
+      "image": "./pergunta0702.jpg",
+      "title": "Qual afirmação a seguir é falsa?",
+      "description": "",
+      "answer": 2,
+      "alternatives": [
+        "Apenas jovens entre 12 e 21 anos podem fazer parte de forma ativa",
+        "Os encontros são realizados em grande maioria templos maçonicos",
+        "Jovens filhas de marçom/demolay podem fazer parte da ordem",
+        "A ordem possu 7 virtudes cardeias"
+      ]
+    }
+  ],
+  "external": [
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#a3221c",
+      "secondary": "#d39f54",
+      "mainBg": "#1d0103",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
